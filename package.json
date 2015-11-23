@@ -1,6 +1,6 @@
 {
   "name": "ttcap",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "an easy way to create chinese cap by node-canvas",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,11 @@
     "captcha"
   ],
   "dependencies": {
-    "canvas" : "1.3.2"
+    "canvas": "1.3.2"
   },
-  "author": "tonyleen",
+  "author": {
+    "name": "tonyleen"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tonyleen/ttcap/issues"
