@@ -1,7 +1,7 @@
 {
   "name": "ttcap",
   "version": "0.1.10",
-  "description": "an easy way to create chinese cap by node-canvas,for test",
+  "description": "an easy way to create chinese cap by node-canvas",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
