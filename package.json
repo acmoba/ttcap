@@ -1,6 +1,6 @@
 {
   "name": "ttcap",
-  "version": "0.1.3",
+  "version": "0.1.10",
   "description": "an easy way to create chinese cap by node-canvas",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tonyleen/ttcap.git"
+    "url": "git+https://github.com/acmoba/ttcap.git"
   },
   "keywords": [
     "cap",
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonyleen/ttcap/issues"
+    "url": "https://github.com/acmoba/ttcap/issues"
   },
-  "homepage": "https://github.com/tonyleen/ttcap#readme"
+  "homepage": "https://github.com/acmoba/ttcap#readme"
 }
