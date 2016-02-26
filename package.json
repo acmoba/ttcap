@@ -1,6 +1,6 @@
 {
   "name": "ttcap",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "an easy way to create chinese cap by node-canvas",
   "main": "index.js",
   "scripts": {
